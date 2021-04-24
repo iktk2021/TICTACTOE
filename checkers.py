@@ -1,4 +1,5 @@
 import random
+#imported random module
 board=[
       ['','',''],
       ['','',''],
